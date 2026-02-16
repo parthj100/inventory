@@ -1,4 +1,4 @@
-# Inventory (iOS)
+# Costume Inventory (iOS)
 
 `Inventory` is a SwiftUI app for managing costume inventory, check-outs, events, and storage locations.
 
